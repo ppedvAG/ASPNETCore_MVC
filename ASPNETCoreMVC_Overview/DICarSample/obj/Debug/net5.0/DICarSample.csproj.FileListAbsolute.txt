@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\bin\Debug\net5.0\DICarSample.deps.json
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\bin\Debug\net5.0\DICarSample.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\bin\Debug\net5.0\ref\DICarSample.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\bin\Debug\net5.0\DICarSample.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\obj\Debug\net5.0\DICarSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\obj\Debug\net5.0\DICarSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\obj\Debug\net5.0\DICarSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\obj\Debug\net5.0\DICarSample.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\obj\Debug\net5.0\DICarSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\obj\Debug\net5.0\DICarSample.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\obj\Debug\net5.0\ref\DICarSample.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\DICarSample\obj\Debug\net5.0\DICarSample.pdb
