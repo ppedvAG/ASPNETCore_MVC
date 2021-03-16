@@ -1,0 +1,8 @@
+.NET Framework 4.8 (altes .NET Framework)
+-	MVC 5 / MVC 6 (angeplant)
+-   ASP.NET MVC 4/5
+
+.NET Core / ASP.NET Core
+
+- ASP.NET Core MVC 3.1
+- .NET 5 / ASP.NET Core 5.0 - MVC  / ASP.NET MVC 5 (aber auf Datum schauen 2020/2021)

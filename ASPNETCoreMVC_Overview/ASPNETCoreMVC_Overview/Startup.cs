@@ -1,3 +1,4 @@
+using ASPNETCoreMVC_Overview.Models;
 using DICarSample;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -27,6 +28,9 @@ namespace ASPNETCoreMVC_Overview
         {
             //services.AddMvc();// Alte Schreibweise für MVC 
             services.AddControllersWithViews().AddRazorRuntimeCompilation(); //Neue Schreibweise //verewnde das MVC Framework
+
+
+            services.Configure<SampleWebSettings>(Configuration);
 
             services.AddSingleton(typeof(ICar), typeof(MockCar));//
    

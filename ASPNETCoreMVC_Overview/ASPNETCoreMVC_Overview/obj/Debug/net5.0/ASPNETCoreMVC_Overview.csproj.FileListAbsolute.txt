@@ -367,3 +367,4 @@ C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\b
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\obj\Debug\net5.0\ASPNETCoreMVC_Overview.MvcApplicationPartsAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\bin\Debug\net5.0\samplewebsettings.json

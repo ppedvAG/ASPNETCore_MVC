@@ -2,6 +2,7 @@
 using DICarSample;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -15,10 +16,14 @@ namespace ASPNETCoreMVC_Overview.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly ICar _mockCar;
 
-        public HomeController(ILogger<HomeController> logger, ICar myMockCar )
+        private readonly SampleWebSettings _settings;
+
+        public HomeController(ILogger<HomeController> logger, ICar myMockCar, IOptions<SampleWebSettings> settingsOptions )
         {
             _logger = logger;
             _mockCar = myMockCar;
+
+            _settings = settingsOptions.Value;
 
             _logger.LogInformation("Zeige HomeController->Index an");
         }

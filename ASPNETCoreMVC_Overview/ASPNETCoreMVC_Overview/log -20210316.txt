@@ -1,0 +1,16 @@
+2021-03-16 09:48:26.817 +01:00 [INF] Starting web host
+2021-03-16 09:48:35.977 +01:00 [INF] User profile is available. Using 'C:\Users\kw4\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-16 09:48:37.544 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-16 09:48:37.545 +01:00 [INF] Hosting environment: Development
+2021-03-16 09:48:37.545 +01:00 [INF] Content root path: C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview
+2021-03-16 09:48:37.736 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/ - -
+2021-03-16 09:48:37.837 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-16 09:48:37.985 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ASPNETCoreMVC_Overview.Controllers.HomeController (ASPNETCoreMVC_Overview).
+2021-03-16 09:56:05.600 +01:00 [INF] Starting web host
+2021-03-16 09:56:10.917 +01:00 [INF] User profile is available. Using 'C:\Users\kw4\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-16 09:56:12.597 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-16 09:56:12.598 +01:00 [INF] Hosting environment: Development
+2021-03-16 09:56:12.598 +01:00 [INF] Content root path: C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview
+2021-03-16 09:56:12.797 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/ - -
+2021-03-16 09:56:12.902 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-16 09:56:13.050 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ASPNETCoreMVC_Overview.Controllers.HomeController (ASPNETCoreMVC_Overview).
