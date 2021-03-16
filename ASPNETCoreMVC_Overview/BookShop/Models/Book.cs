@@ -12,6 +12,8 @@ namespace BookShop.Models
         public string Author { get; set; }
         public decimal Price { get; set; }
 
+        public DateTime Published { get; set; }
+
         public bool AudioBook { get; set; } = false;
     }
 }

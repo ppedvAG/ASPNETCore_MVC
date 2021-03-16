@@ -11,5 +11,9 @@ namespace BookShop.ViewModels
         public IList<Book> Books { get; set; }
 
         public bool AudioBookFilter { get; set; }
+
+        public Book NewestPublishedBook { get; set; }
+
+        public Book NewestPublishedAudioBook { get; set; }
     }
 }

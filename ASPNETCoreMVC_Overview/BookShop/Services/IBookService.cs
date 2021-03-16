@@ -13,5 +13,11 @@ namespace BookShop.Services
         int GetCount();
 
         Book GetById(int id);
+
+        Book GetNewestPublishedBook();
+        Book GetNewestPublishedAudioBook();
+
+
+        Book InsertBook(Book book);
     }
 }

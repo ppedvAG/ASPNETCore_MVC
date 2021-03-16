@@ -1,0 +1,14 @@
+﻿@model BookShop.ViewModels.BooksVM
+
+@if (Model.NewestPublishedBook.ID > 0)
+{
+    <p>Newest Book</p>
+    <div class="card">
+        <div class="card-body">
+            <p>@Model.NewestPublishedBook.Title</p>
+            <p>@Model.NewestPublishedBook.Author</p>
+            <p>@Model.NewestPublishedBook.Price</p>
+            <p>@Model.NewestPublishedBook.Published</p>
+        </div>
+    </div>
+}
