@@ -1,9 +1,11 @@
 ﻿using BookShop.Models;
 using BookShop.Services;
 using BookShop.ViewModels;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -19,6 +21,7 @@ namespace BookShop.Controllers
             _bookService = bookService;
         }
 
+       
         public IActionResult Index(string query, bool audioBook=false) // Get - Methode
         {
             BooksVM booksVM = new(); //C# 9.0 BooksVM booksVM = new BooksVM()
@@ -26,7 +29,6 @@ namespace BookShop.Controllers
             booksVM.Books = _bookService.GetBooks(query, audioBook);
             booksVM.NewestPublishedBook = _bookService.GetNewestPublishedBook();
             booksVM.NewestPublishedAudioBook = _bookService.GetNewestPublishedAudioBook();
-
 
             return View(booksVM);
             //return View(_bookService.GetBooks(string.Empty, false));
@@ -46,22 +48,39 @@ namespace BookShop.Controllers
             return View(book);
         }
 
-
         //Get Methode
+        [HttpGet]
         public IActionResult Create()
         {
             return View(); //In .NET Framework 4.8 - return View (new Book());
         }
 
-
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Book book)
+        public IActionResult Create(IFormFile datei, Book book)
         {
+            //if (book.Price < 20)
+                //ModelState.AddModelError("Preisfestlegung", "Der Preis muss mindestens über 20 Euro liegen");
+
             if (ModelState.IsValid)
             {
-                book = _bookService.InsertBook(book);
+                //Rückgegebenes Buch wird die ID benötigt, damit da ein Bildname gemappt wird. 
+                book = _bookService.InsertBook(book); // DB Save
+
+                FileInfo fileInfo = new FileInfo(datei.FileName);
+                book.PictureName = book.ID + fileInfo.Extension;
+                
+
+                //Festlegen des Zielverzeichnisses
+                var pfad = AppDomain.CurrentDomain.GetData("BildVerzeichnis") + @"\images\" + book.PictureName;
+
+                using (var fs = new FileStream(pfad, FileMode.Create))
+                    datei.CopyTo(fs);
+
             }
+            else
+                return View(book);
 
             return RedirectToAction("Index");
         }

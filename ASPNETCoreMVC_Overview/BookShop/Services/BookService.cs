@@ -79,10 +79,26 @@ namespace BookShop.Services
 
         public Book InsertBook(Book book)
         {
+            Guid myID = Guid.Empty;
+
+            if (myID == Guid.Empty)
+                myID = Guid.NewGuid();
+
             book.ID = _bookService.Max(n => n.ID) + 1;
             _bookService.Add(book);
 
             return book; 
+        }
+
+
+        public Book InsertBook(Book book, string pictureFullName)
+        {
+            book.ID = _bookService.Max(n => n.ID) + 1; //Simulation, dass SQL SErver mit eine ID vergibt. 
+            book.PictureName = book.ID + pictureFullName;
+            
+            _bookService.Add(book);
+            //SaveChanges();
+            return book;
         }
     }
 }

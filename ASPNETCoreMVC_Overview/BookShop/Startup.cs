@@ -2,13 +2,17 @@ using BookShop.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Localization;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
+using BookShop.Middleware;
 
 namespace BookShop
 {
@@ -44,10 +48,32 @@ namespace BookShop
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
-
             app.UseAuthorization();
+
+            AppDomain.CurrentDomain.SetData("BildVerzeichnis", env.WebRootPath);
+
+
+            app.MapWhen(context => context.Request.Path.ToString().Contains("imagegen"), subapp =>
+            {
+                subapp.UseThumbNailGen();
+            });
+
+            var supportedCultures = new[]
+           {
+                 new CultureInfo("en-US"),
+                 new CultureInfo("es"),
+             };
+            app.UseRequestLocalization(new RequestLocalizationOptions
+            {
+                DefaultRequestCulture = new RequestCulture("en-US"),
+                // Formatting numbers, dates, etc.
+                SupportedCultures = supportedCultures,
+                // Localized UI strings.
+                SupportedUICultures = supportedCultures
+            });
+
+            //Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo("en-US");
 
             app.UseEndpoints(endpoints =>
             {
