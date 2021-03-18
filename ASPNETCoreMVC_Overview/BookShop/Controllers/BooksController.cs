@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace BookShop.Controllers
@@ -82,6 +83,34 @@ namespace BookShop.Controllers
             else
                 return View(book);
 
+            return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public IActionResult Buy (int? id)
+        {
+            if (!id.HasValue)
+                throw new ArgumentException();
+
+            if (HttpContext.Session.IsAvailable)
+            {
+                List<int> idList = new List<int>();
+
+
+                // Wenn Waren schon im Einkaufskorb sich befinden. muss der warenkorb als Objekt aufgelöst werden, damit wir "neue" Käufe hinzufügen können
+                if (HttpContext.Session.Keys.Contains("ShoppingCart"))
+                {
+                    string jsonIdList = HttpContext.Session.GetString("ShoppingCart");
+
+                    idList = JsonSerializer.Deserialize<List<int>>(jsonIdList);
+                }
+
+                idList.Add(id.Value);
+
+                string jsonString = JsonSerializer.Serialize(idList);
+
+                HttpContext.Session.SetString("ShoppingCart", jsonString);
+            }
             return RedirectToAction("Index");
         }
 

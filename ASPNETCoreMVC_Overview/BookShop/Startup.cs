@@ -31,6 +31,8 @@ namespace BookShop
             services.AddControllersWithViews();
 
             services.AddSingleton<IBookService, BookService>();
+
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,7 +52,7 @@ namespace BookShop
             app.UseStaticFiles();
             app.UseRouting();
             app.UseAuthorization();
-
+            app.UseSession();
             AppDomain.CurrentDomain.SetData("BildVerzeichnis", env.WebRootPath);
 
 

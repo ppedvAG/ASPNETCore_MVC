@@ -5,12 +5,12 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNETCoreMVC_Overview", "ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview.csproj", "{B6078E31-0B71-4785-8D6D-FAD5E4E13EB1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul001", "Modul001", "{B44B403B-B361-4D72-821E-6E61D31C6FB8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Einstieg_Übersicht", "Einstieg_Übersicht", "{B44B403B-B361-4D72-821E-6E61D31C6FB8}"
 	ProjectSection(SolutionItems) = preProject
 		Inhalt.txt = Inhalt.txt
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul002", "Modul002", "{5E2D7137-94D1-414D-9D9E-2152383CCF13}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BeispielApp", "BeispielApp", "{5E2D7137-94D1-414D-9D9E-2152383CCF13}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIBadSample", "DIBadSample\DIBadSample.csproj", "{13222B94-C347-4898-86F2-3A1802A51588}"
 EndProject
@@ -22,10 +22,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DI Samples", "DI Samples", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E15A906-FD10-46F4-9A02-EE092CFE81CD}"
 	ProjectSection(SolutionItems) = preProject
+		Agenda_Do_FR_Mo.txt = Agenda_Do_FR_Mo.txt
 		Versionen_ASPNET.txt = Versionen_ASPNET.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop", "BookShop\BookShop.csproj", "{E0F7DEB9-F696-469C-8FDA-BA5E7FE3F3DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShop", "BookShop\BookShop.csproj", "{E0F7DEB9-F696-469C-8FDA-BA5E7FE3F3DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themen_Samples", "Themen_Samples", "{CC9D26E8-841A-41F2-A90A-D639C4EFE64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagementSamples", "StateManagementSamples\StateManagementSamples.csproj", "{4728D3A5-930E-4F50-AF95-E85AE9BFFA1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +58,10 @@ Global
 		{E0F7DEB9-F696-469C-8FDA-BA5E7FE3F3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F7DEB9-F696-469C-8FDA-BA5E7FE3F3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F7DEB9-F696-469C-8FDA-BA5E7FE3F3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4728D3A5-930E-4F50-AF95-E85AE9BFFA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4728D3A5-930E-4F50-AF95-E85AE9BFFA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4728D3A5-930E-4F50-AF95-E85AE9BFFA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4728D3A5-930E-4F50-AF95-E85AE9BFFA1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +73,7 @@ Global
 		{D8C1FB6C-FF6D-4A38-85B7-78E1FC5EC14F} = {28215549-0CED-4CC9-89D5-690A0252D7EF}
 		{28215549-0CED-4CC9-89D5-690A0252D7EF} = {B44B403B-B361-4D72-821E-6E61D31C6FB8}
 		{E0F7DEB9-F696-469C-8FDA-BA5E7FE3F3DB} = {5E2D7137-94D1-414D-9D9E-2152383CCF13}
+		{4728D3A5-930E-4F50-AF95-E85AE9BFFA1D} = {CC9D26E8-841A-41F2-A90A-D639C4EFE64D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E2835D9-6477-4837-BC78-B9EB1D83027A}

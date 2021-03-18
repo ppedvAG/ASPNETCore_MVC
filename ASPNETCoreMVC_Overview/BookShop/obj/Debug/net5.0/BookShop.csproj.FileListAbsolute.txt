@@ -116,10 +116,11 @@ C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\bin\Debug\net5.
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
-C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.csprojAssemblyReference.cache
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Shared\_NewestAudioBookPartial.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Shared\_NewestBookPartial.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\bin\Debug\net5.0\System.Drawing.Common.dll
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs

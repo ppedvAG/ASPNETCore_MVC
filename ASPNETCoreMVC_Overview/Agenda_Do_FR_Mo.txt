@@ -1,0 +1,17 @@
+Donnerstag:
+
+- State Management (Do)
+- Beispiel App -> Warenkoreb (Do)
+
+
+- Localisation (Mulit Language)
+- View Components
+- Routing
+- EF Core
+
+
+- User Identity (Benutzerkonten)
+- WebAPI
+- PartialView with jQuery 
+- Aktualisierung einzelner Komponenten eines ViewModels
+
