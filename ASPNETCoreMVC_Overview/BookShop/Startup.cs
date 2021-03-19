@@ -15,6 +15,7 @@ using System.Threading.Tasks;
 using BookShop.Middleware;
 using BookShop.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 
 namespace BookShop
 {
@@ -32,7 +33,7 @@ namespace BookShop
         {
             services.AddControllersWithViews();
             services.AddRazorPages();
-
+            services.AddSingleton<CommonLocalizationService>();
             services.AddScoped<IBookService, BookService>();
 
             services.AddSession();
@@ -40,6 +41,30 @@ namespace BookShop
 
             services.AddDbContext<BookDbContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("BooksDbContext")));
+
+
+
+            services.AddLocalization(); //Mehrsprachigkeit aktivieren 
+            services.AddLocalization(options => options.ResourcesPath = "Resources");
+            services.Configure<RequestLocalizationOptions>(options =>
+            {
+                var supportedCultures = new[]
+                {
+                    new CultureInfo("en"),
+                    new CultureInfo("de"),
+                    new CultureInfo("fr"),
+                    new CultureInfo("es"),
+                    new CultureInfo("ru"),
+                    new CultureInfo("ja"),
+                    new CultureInfo("ar"),
+                    new CultureInfo("zh"),
+                    new CultureInfo("en-GB")
+                };
+
+                options.DefaultRequestCulture = new RequestCulture("en-GB");
+                options.SupportedCultures = supportedCultures;
+                options.SupportedUICultures = supportedCultures;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -65,25 +90,27 @@ namespace BookShop
             app.UseSession();
             AppDomain.CurrentDomain.SetData("BildVerzeichnis", env.WebRootPath);
 
+            var localizationOptions = app.ApplicationServices.GetService<IOptions<RequestLocalizationOptions>>().Value;
+            app.UseRequestLocalization(localizationOptions);
 
             app.MapWhen(context => context.Request.Path.ToString().Contains("imagegen"), subapp =>
             {
                 subapp.UseThumbNailGen();
             });
 
-            var supportedCultures = new[]
-           {
-                 new CultureInfo("en-US"),
-                 new CultureInfo("es"),
-             };
-            app.UseRequestLocalization(new RequestLocalizationOptions
-            {
-                DefaultRequestCulture = new RequestCulture("en-US"),
-                // Formatting numbers, dates, etc.
-                SupportedCultures = supportedCultures,
-                // Localized UI strings.
-                SupportedUICultures = supportedCultures
-            });
+           // var supportedCultures = new[]
+           //{
+           //      new CultureInfo("en-US"),
+           //      new CultureInfo("es"),
+           //  };
+           // app.UseRequestLocalization(new RequestLocalizationOptions
+           // {
+           //     DefaultRequestCulture = new RequestCulture("en-US"),
+           //     // Formatting numbers, dates, etc.
+           //     SupportedCultures = supportedCultures,
+           //     // Localized UI strings.
+           //     SupportedUICultures = supportedCultures
+           // });
 
             //Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo("en-US");
             

@@ -1,0 +1,7 @@
+
+
+Startup oder Programm.cs
+
+// Initialisierung - Methode für IdentityDB
+- Fragst, ob es eine Admin-Role gibt
+ -> Nein -> Lege Admin Role an + User der mit der AdminRole verbunden wird -> Administrator 

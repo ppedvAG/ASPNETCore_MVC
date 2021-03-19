@@ -206,3 +206,17 @@ C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Order\Payment.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\Razor\Views\Shared\Components\CultureSwitcher\default.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\bin\Debug\net5.0\de\BookShop.resources.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\bin\Debug\net5.0\en\BookShop.resources.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\bin\Debug\net5.0\fr\BookShop.resources.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.Resources.CommonResources.de.resources
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.Resources.CommonResources.en.resources
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.Resources.CommonResources.fr.resources
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.Resources.Views.Index.de.resources
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.Resources.Views.Index.en.resources
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.Resources.Views.Index.fr.resources
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\BookShop.csproj.GenerateResource.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\de\BookShop.resources.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\en\BookShop.resources.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\BookShop\obj\Debug\net5.0\fr\BookShop.resources.dll

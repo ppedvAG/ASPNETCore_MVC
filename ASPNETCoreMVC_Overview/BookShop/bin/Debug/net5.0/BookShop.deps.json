@@ -321,6 +321,17 @@
         "runtime": {
           "BookShop.dll": {}
         },
+        "resources": {
+          "de/BookShop.resources.dll": {
+            "locale": "de"
+          },
+          "en/BookShop.resources.dll": {
+            "locale": "en"
+          },
+          "fr/BookShop.resources.dll": {
+            "locale": "fr"
+          }
+        },
         "compile": {
           "BookShop.dll": {}
         }

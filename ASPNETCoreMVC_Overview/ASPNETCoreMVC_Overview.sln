@@ -23,6 +23,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E15A906-FD10-46F4-9A02-EE092CFE81CD}"
 	ProjectSection(SolutionItems) = preProject
 		Agenda_Do_FR_Mo.txt = Agenda_Do_FR_Mo.txt
+		IdentityInit.txt = IdentityInit.txt
 		Versionen_ASPNET.txt = Versionen_ASPNET.txt
 	EndProjectSection
 EndProject
