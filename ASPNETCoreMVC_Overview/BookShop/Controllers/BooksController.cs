@@ -35,18 +35,18 @@ namespace BookShop.Controllers
             //return View(_bookService.GetBooks(string.Empty, false));
         }
 
-        public IActionResult Details(int? id)
+        public IActionResult Details(Guid? id)
         {
             if (!id.HasValue)
                 return NotFound();
 
-            //Book book = _bookService.GetById(id.Value);
+            Book book = _bookService.GetById(id.Value);
 
-            //if (book == null)
-            //    return NotFound();
+            if (book == null)
+                return NotFound();
 
 
-            return View(new Book());
+            return View(book);
         }
 
         //Get Methode
@@ -87,14 +87,14 @@ namespace BookShop.Controllers
         }
 
         [HttpPost]
-        public IActionResult Buy (int? id)
+        public IActionResult Buy (Guid? id)
         {
             if (!id.HasValue)
                 throw new ArgumentException();
 
             if (HttpContext.Session.IsAvailable)
             {
-                List<int> idList = new List<int>();
+                List<Guid> idList = new List<Guid>();
 
 
                 // Wenn Waren schon im Einkaufskorb sich befinden. muss der warenkorb als Objekt aufgelöst werden, damit wir "neue" Käufe hinzufügen können
@@ -102,7 +102,7 @@ namespace BookShop.Controllers
                 {
                     string jsonIdList = HttpContext.Session.GetString("ShoppingCart");
 
-                    idList = JsonSerializer.Deserialize<List<int>>(jsonIdList);
+                    idList = JsonSerializer.Deserialize<List<Guid>>(jsonIdList);
                 }
 
                 idList.Add(id.Value);

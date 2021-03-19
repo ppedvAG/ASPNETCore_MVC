@@ -1,5 +1,7 @@
+using BookShop.Data;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
@@ -13,7 +15,9 @@ namespace BookShop
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            IHost host = CreateHostBuilder(args).Build();
+            SeedDatabase(host);
+            host.Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
@@ -22,5 +26,32 @@ namespace BookShop
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        private static void SeedDatabase(IHost host)
+        {
+            var scopeFactory = host.Services.GetRequiredService<IServiceScopeFactory>();
+
+            using (var scope = scopeFactory.CreateScope())
+            {
+                // ServiceProvider = IOC
+                var context = scope.ServiceProvider.GetRequiredService<BookDbContext>();
+
+
+                SeedData.Initialize(context);
+
+                //InMemeory - Database
+                //if (context.Database.EnsureCreated())
+                //{
+                //    try
+                //    {
+                //        SeedData.Initialize(context);
+                //    }
+                //    catch (Exception ex)
+                //    {
+
+                //    }
+                //}
+            }
+        }
     }
 }

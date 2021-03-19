@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DICarSampleConsole/1.0.0": {
+        "dependencies": {
+          "DICarSample": "1.0.0"
+        },
+        "runtime": {
+          "DICarSampleConsole.dll": {}
+        }
+      },
+      "DICarSample/1.0.0": {
+        "runtime": {
+          "DICarSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DICarSampleConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DICarSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

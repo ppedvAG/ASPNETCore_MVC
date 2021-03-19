@@ -32,7 +32,7 @@ namespace BookShop
         {
             services.AddControllersWithViews();
 
-            services.AddSingleton<IBookService, BookService>();
+            services.AddScoped<IBookService, BookService>();
 
             services.AddSession();
 

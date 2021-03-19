@@ -35,17 +35,17 @@ namespace BookShop.Controllers
         {
             IList<Book> shoppingCarts = new List<Book>();
 
-            //string shoppingCartJson = HttpContext.Session.GetString("ShoppingCart");
-            //List<int> idList = JsonSerializer.Deserialize<List<int>>(shoppingCartJson);
+            string shoppingCartJson = HttpContext.Session.GetString("ShoppingCart");
+            List<Guid> idList = JsonSerializer.Deserialize<List<Guid>>(shoppingCartJson);
 
-            //Book book = null;
+            Book book = null;
 
-            //foreach (int currentArticleId in idList)
-            //{
-            //    book = new Book();
-            //    book = _service.GetById(currentArticleId);
-            //    shoppingCarts.Add(book);
-            //}
+            foreach (Guid currentArticleId in idList)
+            {
+                book = new Book();
+                book = _service.GetById(currentArticleId);
+                shoppingCarts.Add(book);
+            }
 
             return shoppingCarts;
         }
@@ -53,27 +53,27 @@ namespace BookShop.Controllers
 
         
         [HttpPost] 
-        public IActionResult Cancel(int? id)
+        public IActionResult Cancel(Guid? id)
         {
-            //if (!id.HasValue)
-            //    throw new ArgumentException();
+            if (!id.HasValue)
+                throw new ArgumentException();
 
-            //IList<Book> shoppingCart = new List<Book>();
-            //shoppingCart = InitializeShoppingCarts();
+            IList<Book> shoppingCart = new List<Book>();
+            shoppingCart = InitializeShoppingCarts();
 
-            //if (shoppingCart.Any(a=>a.ID == id.Value))
-            //{
-            //    Book toCancel = shoppingCart.First(a => a.ID == id.Value);
-            //    shoppingCart.Remove(toCancel);
-            //}
+            if (shoppingCart.Any(a => a.ID == id.Value))
+            {
+                Book toCancel = shoppingCart.First(a => a.ID == id.Value);
+                shoppingCart.Remove(toCancel);
+            }
 
-            //if (shoppingCart.Count()==0)
-            //    HttpContext.Session.Remove("ShoppingCart");
-            //else
-            //{
-            //    string jsonString = JsonSerializer.Serialize(shoppingCart.Select(n => n.ID).ToList());
-            //    HttpContext.Session.SetString("ShoppingCart", jsonString);
-            //}
+            if (shoppingCart.Count() == 0)
+                HttpContext.Session.Remove("ShoppingCart");
+            else
+            {
+                string jsonString = JsonSerializer.Serialize(shoppingCart.Select(n => n.ID).ToList());
+                HttpContext.Session.SetString("ShoppingCart", jsonString);
+            }
 
 
             return RedirectToAction("Index");
