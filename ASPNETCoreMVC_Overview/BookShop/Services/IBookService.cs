@@ -12,7 +12,7 @@ namespace BookShop.Services
 
         int GetCount();
 
-        Book GetById(int id);
+        Book GetById(Guid id);
 
         Book GetNewestPublishedBook();
         Book GetNewestPublishedAudioBook();

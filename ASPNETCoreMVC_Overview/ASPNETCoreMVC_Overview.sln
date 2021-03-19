@@ -30,7 +30,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShop", "BookShop\BookSh
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themen_Samples", "Themen_Samples", "{CC9D26E8-841A-41F2-A90A-D639C4EFE64D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagementSamples", "StateManagementSamples\StateManagementSamples.csproj", "{4728D3A5-930E-4F50-AF95-E85AE9BFFA1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateManagementSamples", "StateManagementSamples\StateManagementSamples.csproj", "{4728D3A5-930E-4F50-AF95-E85AE9BFFA1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

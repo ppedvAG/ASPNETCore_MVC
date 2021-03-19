@@ -40,13 +40,13 @@ namespace BookShop.Controllers
             if (!id.HasValue)
                 return NotFound();
 
-            Book book = _bookService.GetById(id.Value);
+            //Book book = _bookService.GetById(id.Value);
 
-            if (book == null)
-                return NotFound();
+            //if (book == null)
+            //    return NotFound();
 
 
-            return View(book);
+            return View(new Book());
         }
 
         //Get Methode
@@ -70,7 +70,7 @@ namespace BookShop.Controllers
                 book = _bookService.InsertBook(book); // DB Save
 
                 FileInfo fileInfo = new FileInfo(datei.FileName);
-                book.PictureName = book.ID + fileInfo.Extension;
+                book.PictureName = book.ID.ToString() + fileInfo.Extension;
                 
 
                 //Festlegen des Zielverzeichnisses

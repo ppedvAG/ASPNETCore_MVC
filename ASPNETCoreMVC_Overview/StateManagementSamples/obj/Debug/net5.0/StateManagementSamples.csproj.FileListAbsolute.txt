@@ -122,3 +122,4 @@ C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\StateManagementSamples\o
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\StateManagementSamples\obj\Debug\net5.0\Razor\Views\StateManagement\TempDataThirdSample.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\StateManagementSamples\obj\Debug\net5.0\Razor\Views\Home\TempDataSample.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\StateManagementSamples\obj\Debug\net5.0\Razor\Views\StateManagement\SessionInit.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\StateManagementSamples\obj\Debug\net5.0\StateManagementSamples.csprojAssemblyReference.cache

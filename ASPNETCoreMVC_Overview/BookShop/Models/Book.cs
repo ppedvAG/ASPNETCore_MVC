@@ -9,10 +9,10 @@ namespace BookShop.Models
 {
     public class Book
     {
-        public int ID { get; set; }
+        public Guid ID { get; set; }
 
         [DisplayName("Titel")]
-        [MaxLength (10, ErrorMessage ="der Titel darf maximal nur 10 Zeichen lang sein") ]
+        [MaxLength (50, ErrorMessage ="der Titel darf maximal nur 10 Zeichen lang sein") ]
         public string Title { get; set; }
 
 
@@ -22,7 +22,7 @@ namespace BookShop.Models
 
         [DisplayName("Preis")]
         [Required(ErrorMessage ="Bitte geben Sie einen Preis ein")]
-        [Range (5, 15, ErrorMessage = "Bitte einen Wert zwishcen 5 und 15 Euro eingeben")]
+        //[Range (5, 15, ErrorMessage = "Bitte einen Wert zwishcen 5 und 15 Euro eingeben")]
         
         public decimal Price { get; set; }
 

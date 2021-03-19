@@ -1,8 +1,15 @@
-﻿@{
+﻿
+@using Microsoft.AspNetCore.Http;
+
+@{
     ViewData["Title"] = "Privacy Policy";
+
+    string name = Context.Session.GetString("Name").ToString();
 }
 <h1>@ViewData["Title"]</h1>
 
 <p>Use this page to detail your site's privacy policy.</p>
 
+@Context.Session.GetString("Name").ToString();
 
+@name

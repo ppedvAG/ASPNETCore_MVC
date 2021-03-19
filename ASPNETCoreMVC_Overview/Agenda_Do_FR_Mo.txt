@@ -4,13 +4,15 @@ Donnerstag:
 - Beispiel App -> Warenkoreb (Do)
 
 
+Freitag
+- EF Core
+- User Identity (Benutzerkonten)
+
 - Localisation (Mulit Language)
 - View Components
+
+Montag:
 - Routing
-- EF Core
-
-
-- User Identity (Benutzerkonten)
 - WebAPI
 - PartialView with jQuery 
 - Aktualisierung einzelner Komponenten eines ViewModels

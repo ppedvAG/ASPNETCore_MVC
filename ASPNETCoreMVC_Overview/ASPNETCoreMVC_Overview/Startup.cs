@@ -53,7 +53,17 @@ namespace ASPNETCoreMVC_Overview
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts(); 
             }
-            
+
+            app.Use(async (context, next) =>
+            {
+                await next();
+                if (context.Response.StatusCode == 404)
+                {
+                    context.Request.Path = "/Home";
+                    await next();
+                }
+            });
+
             app.UseHttpsRedirection(); 
             app.UseStaticFiles();
             app.UseRouting();
@@ -62,6 +72,11 @@ namespace ASPNETCoreMVC_Overview
 
             app.UseEndpoints(endpoints =>
             {
+                //endpoints.MapControllerRoute(name: "blog",
+                //pattern: "blog/{*article}",
+                //defaults: new { controller = "Blog", action = "Article" });
+
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

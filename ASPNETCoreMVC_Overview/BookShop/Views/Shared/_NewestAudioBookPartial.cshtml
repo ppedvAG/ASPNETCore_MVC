@@ -1,6 +1,6 @@
 ﻿@model BookShop.ViewModels.BooksVM
 
-@if (Model.NewestPublishedAudioBook.ID > 0)
+@if (Model.NewestPublishedAudioBook.ID != Guid.Empty)
 {
     <p>Newest Audio Book</p>
     <div class="card">

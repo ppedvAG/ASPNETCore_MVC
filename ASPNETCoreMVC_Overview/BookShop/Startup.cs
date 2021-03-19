@@ -13,6 +13,8 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using BookShop.Middleware;
+using BookShop.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookShop
 {
@@ -33,6 +35,9 @@ namespace BookShop
             services.AddSingleton<IBookService, BookService>();
 
             services.AddSession();
+
+            services.AddDbContext<BookDbContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("BooksDbContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
