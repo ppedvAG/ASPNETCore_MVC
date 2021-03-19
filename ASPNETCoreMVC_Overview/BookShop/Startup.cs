@@ -31,10 +31,12 @@ namespace BookShop
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddRazorPages();
 
             services.AddScoped<IBookService, BookService>();
 
             services.AddSession();
+
 
             services.AddDbContext<BookDbContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("BooksDbContext")));
@@ -56,7 +58,10 @@ namespace BookShop
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();
+
             app.UseAuthorization();
+            app.UseAuthentication();
+
             app.UseSession();
             AppDomain.CurrentDomain.SetData("BildVerzeichnis", env.WebRootPath);
 
@@ -81,12 +86,13 @@ namespace BookShop
             });
 
             //Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo("en-US");
-
+            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapRazorPages();
             });
         }
     }

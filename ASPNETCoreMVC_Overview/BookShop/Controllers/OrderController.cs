@@ -78,5 +78,12 @@ namespace BookShop.Controllers
 
             return RedirectToAction("Index");
         }
+
+
+
+        public IActionResult Payment()
+        {
+            return View();
+        }
     }
 }
