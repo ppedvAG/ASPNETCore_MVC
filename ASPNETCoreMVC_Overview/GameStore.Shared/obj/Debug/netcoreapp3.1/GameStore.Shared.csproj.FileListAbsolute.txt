@@ -33,4 +33,3 @@ C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Deb
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csproj.CoreCompileInputs.cache
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.dll
 C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.pdb
-C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csprojAssemblyReference.cache

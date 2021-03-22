@@ -11,6 +11,10 @@
 <partial name="_NewestBookPartial" />
 <partial name="_NewestAudioBookPartial" />
 
+
+
+
+
 <form asp-controller="Books" asp-action="Index" method="get">
     <p class="abc">
         Title: <input type="text" name="query" />
@@ -81,3 +85,19 @@
         </tbody>
     </table>
 </form>
+
+
+
+<p><button class="btn btn-primary" id="load">Load</button></p>
+
+<div id="grid"></div>
+
+@section scripts{
+    <script>
+        $(function () {
+            $('#load').on('click', function () {
+                $('#grid').load('/Books/OnGetNewestBookPartial');
+            });
+        });
+    </script>
+}

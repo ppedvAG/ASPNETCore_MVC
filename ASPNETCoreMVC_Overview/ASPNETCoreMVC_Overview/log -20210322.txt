@@ -1,0 +1,134 @@
+2021-03-22 13:17:52.989 +01:00 [INF] Starting web host
+2021-03-22 13:18:01.334 +01:00 [INF] User profile is available. Using 'C:\Users\kw4\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-22 13:18:05.180 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-22 13:18:05.181 +01:00 [INF] Hosting environment: Development
+2021-03-22 13:18:05.182 +01:00 [INF] Content root path: C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview
+2021-03-22 13:18:05.344 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/ - -
+2021-03-22 13:18:05.502 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:18:05.719 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ASPNETCoreMVC_Overview.Controllers.HomeController (ASPNETCoreMVC_Overview).
+2021-03-22 13:18:05.736 +01:00 [INF] Zeige HomeController->Index an
+2021-03-22 13:18:05.948 +01:00 [INF] Executing ViewResult, running view Index.
+2021-03-22 13:18:06.500 +01:00 [INF] Executed ViewResult - view Index executed in 696.393ms.
+2021-03-22 13:18:06.514 +01:00 [INF] Executed action ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview) in 792.4093ms
+2021-03-22 13:18:06.516 +01:00 [INF] Executed endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:18:06.554 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/ - - - 200 - text/html;+charset=utf-8 1219.4865ms
+2021-03-22 13:18:06.754 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/lib/bootstrap/dist/css/bootstrap.min.css - -
+2021-03-22 13:18:06.754 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2021-03-22 13:18:06.755 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2021-03-22 13:18:06.754 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/css/site.css - -
+2021-03-22 13:18:06.755 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/__livereloadscript - -
+2021-03-22 13:18:06.839 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/lib/jquery/dist/jquery.min.js - -
+2021-03-22 13:18:06.855 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/__livereloadscript - - - 200 - text/javascript 100.0061ms
+2021-03-22 13:18:07.061 +01:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\wwwroot\css\site.css'
+2021-03-22 13:18:07.074 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/css/site.css - - - 200 1417 text/css 319.8172ms
+2021-03-22 13:18:07.076 +01:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\wwwroot\js\site.js'
+2021-03-22 13:18:07.093 +01:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2021-03-22 13:18:07.108 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 200 230 application/javascript 354.3354ms
+2021-03-22 13:18:07.151 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/lib/bootstrap/dist/css/bootstrap.min.css - - - 200 155764 text/css 397.1791ms
+2021-03-22 13:18:07.176 +01:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\wwwroot\lib\jquery\dist\jquery.min.js'
+2021-03-22 13:18:07.181 +01:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2021-03-22 13:18:07.194 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/lib/jquery/dist/jquery.min.js - - - 200 89478 application/javascript 366.0563ms
+2021-03-22 13:18:07.194 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 200 78641 application/javascript 438.7519ms
+2021-03-22 13:18:07.575 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/favicon.ico - -
+2021-03-22 13:18:07.596 +01:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview\wwwroot\favicon.ico'
+2021-03-22 13:18:07.602 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/favicon.ico - - - 200 5430 image/x-icon 27.4472ms
+2021-03-22 13:18:08.053 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44329/__livereload - -
+2021-03-22 13:18:37.427 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/PartialView/Inex - -
+2021-03-22 13:18:37.444 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:18:37.452 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ASPNETCoreMVC_Overview.Controllers.HomeController (ASPNETCoreMVC_Overview).
+2021-03-22 13:18:37.452 +01:00 [INF] Zeige HomeController->Index an
+2021-03-22 13:18:37.465 +01:00 [INF] Executing ViewResult, running view Index.
+2021-03-22 13:18:37.476 +01:00 [INF] Executed ViewResult - view Index executed in 22.1651ms.
+2021-03-22 13:18:37.476 +01:00 [INF] Executed action ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview) in 24.3236ms
+2021-03-22 13:18:37.478 +01:00 [INF] Executed endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:18:37.484 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/PartialView/Inex - - - 404 - text/html;+charset=utf-8 56.7444ms
+2021-03-22 13:18:37.510 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44329/__livereload - - - 101 - - 29456.9395ms
+2021-03-22 13:18:42.381 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/PartialView/Index - -
+2021-03-22 13:18:42.387 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.PartialViewController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:18:42.388 +01:00 [INF] Route matched with {action = "Index", controller = "PartialView"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ASPNETCoreMVC_Overview.Controllers.PartialViewController (ASPNETCoreMVC_Overview).
+2021-03-22 13:18:42.398 +01:00 [INF] Executing ViewResult, running view Index.
+2021-03-22 13:18:42.410 +01:00 [INF] Executed ViewResult - view Index executed in 19.804ms.
+2021-03-22 13:18:42.410 +01:00 [INF] Executed action ASPNETCoreMVC_Overview.Controllers.PartialViewController.Index (ASPNETCoreMVC_Overview) in 21.6501ms
+2021-03-22 13:18:42.410 +01:00 [INF] Executed endpoint 'ASPNETCoreMVC_Overview.Controllers.PartialViewController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:18:42.411 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/PartialView/Index - - - 200 - text/html;+charset=utf-8 29.7315ms
+2021-03-22 13:18:42.438 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/__livereloadscript - -
+2021-03-22 13:18:42.440 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/__livereloadscript - - - 200 - text/javascript 1.9431ms
+2021-03-22 13:18:42.984 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44329/__livereload - -
+2021-03-22 13:18:43.669 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/PartialView/OnGetAnimalPartial - -
+2021-03-22 13:18:43.670 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.PartialViewController.OnGetAnimalPartial (ASPNETCoreMVC_Overview)'
+2021-03-22 13:18:43.672 +01:00 [INF] Route matched with {action = "OnGetAnimalPartial", controller = "PartialView"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.PartialViewResult OnGetAnimalPartial() on controller ASPNETCoreMVC_Overview.Controllers.PartialViewController (ASPNETCoreMVC_Overview).
+2021-03-22 13:18:43.680 +01:00 [INF] Executing PartialViewResult, running view _AnimalPartialView.
+2021-03-22 13:18:43.709 +01:00 [INF] Executed PartialViewResult - view _AnimalPartialView executed in 33.2917ms.
+2021-03-22 13:18:43.709 +01:00 [INF] Executed action ASPNETCoreMVC_Overview.Controllers.PartialViewController.OnGetAnimalPartial (ASPNETCoreMVC_Overview) in 37.434ms
+2021-03-22 13:18:43.709 +01:00 [INF] Executed endpoint 'ASPNETCoreMVC_Overview.Controllers.PartialViewController.OnGetAnimalPartial (ASPNETCoreMVC_Overview)'
+2021-03-22 13:18:43.709 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/PartialView/OnGetAnimalPartial - - - 200 - text/html;+charset=utf-8 40.6493ms
+2021-03-22 13:18:48.996 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44329/__livereload - - - 101 - - 6011.7980ms
+2021-03-22 13:36:42.740 +01:00 [INF] Starting web host
+2021-03-22 13:36:44.247 +01:00 [INF] User profile is available. Using 'C:\Users\kw4\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-22 13:36:44.859 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-22 13:36:44.860 +01:00 [INF] Hosting environment: Development
+2021-03-22 13:36:44.860 +01:00 [INF] Content root path: C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\ASPNETCoreMVC_Overview
+2021-03-22 13:36:44.921 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/ - -
+2021-03-22 13:36:44.980 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:36:45.074 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ASPNETCoreMVC_Overview.Controllers.HomeController (ASPNETCoreMVC_Overview).
+2021-03-22 13:36:45.086 +01:00 [INF] Zeige HomeController->Index an
+2021-03-22 13:36:45.181 +01:00 [INF] Executing ViewResult, running view Index.
+2021-03-22 13:36:45.373 +01:00 [INF] Executed ViewResult - view Index executed in 257.9191ms.
+2021-03-22 13:36:45.378 +01:00 [INF] Executed action ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview) in 302.8369ms
+2021-03-22 13:36:45.378 +01:00 [INF] Executed endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:36:45.392 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/ - - - 200 - text/html;+charset=utf-8 473.6952ms
+2021-03-22 13:36:45.425 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/lib/bootstrap/dist/css/bootstrap.min.css - -
+2021-03-22 13:36:45.425 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/css/site.css - -
+2021-03-22 13:36:45.425 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/lib/jquery/dist/jquery.min.js - -
+2021-03-22 13:36:45.425 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/__livereloadscript - -
+2021-03-22 13:36:45.425 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2021-03-22 13:36:45.426 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2021-03-22 13:36:45.441 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/__livereloadscript - - - 200 - text/javascript 15.2835ms
+2021-03-22 13:36:45.453 +01:00 [INF] The file /css/site.css was not modified
+2021-03-22 13:36:45.453 +01:00 [INF] The file /js/site.js was not modified
+2021-03-22 13:36:45.453 +01:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2021-03-22 13:36:45.454 +01:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2021-03-22 13:36:45.454 +01:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2021-03-22 13:36:45.457 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 31.4676ms
+2021-03-22 13:36:45.457 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 32.3869ms
+2021-03-22 13:36:45.457 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 304 - application/javascript 31.6180ms
+2021-03-22 13:36:45.457 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/css/site.css - - - 304 - text/css 32.3957ms
+2021-03-22 13:36:45.457 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 32.5816ms
+2021-03-22 13:36:46.010 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44329/__livereload - -
+2021-03-22 13:36:52.039 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/Kevin/Index2 - -
+2021-03-22 13:36:52.047 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:36:52.050 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ASPNETCoreMVC_Overview.Controllers.HomeController (ASPNETCoreMVC_Overview).
+2021-03-22 13:36:52.051 +01:00 [INF] Zeige HomeController->Index an
+2021-03-22 13:36:52.053 +01:00 [INF] Executing ViewResult, running view Index.
+2021-03-22 13:36:52.059 +01:00 [INF] Executed ViewResult - view Index executed in 6.6504ms.
+2021-03-22 13:36:52.068 +01:00 [INF] Executed action ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview) in 17.5046ms
+2021-03-22 13:36:52.068 +01:00 [INF] Executed endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:36:52.070 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/Kevin/Index2 - - - 404 - text/html;+charset=utf-8 30.9252ms
+2021-03-22 13:36:52.112 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44329/__livereload - - - 101 - - 6102.0487ms
+2021-03-22 13:36:56.551 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/Home/Privacy - -
+2021-03-22 13:36:56.557 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Privacy (ASPNETCoreMVC_Overview)'
+2021-03-22 13:36:56.561 +01:00 [INF] Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller ASPNETCoreMVC_Overview.Controllers.HomeController (ASPNETCoreMVC_Overview).
+2021-03-22 13:36:56.562 +01:00 [INF] Zeige HomeController->Index an
+2021-03-22 13:36:56.563 +01:00 [INF] Zeige HomeController->Privacy an
+2021-03-22 13:36:56.574 +01:00 [INF] Executing ViewResult, running view Privacy.
+2021-03-22 13:36:56.582 +01:00 [INF] Executed ViewResult - view Privacy executed in 17.1464ms.
+2021-03-22 13:36:56.582 +01:00 [INF] Executed action ASPNETCoreMVC_Overview.Controllers.HomeController.Privacy (ASPNETCoreMVC_Overview) in 20.386ms
+2021-03-22 13:36:56.582 +01:00 [INF] Executed endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Privacy (ASPNETCoreMVC_Overview)'
+2021-03-22 13:36:56.585 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/Home/Privacy - - - 200 - text/html;+charset=utf-8 32.5986ms
+2021-03-22 13:36:56.610 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/__livereloadscript - -
+2021-03-22 13:36:56.612 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/__livereloadscript - - - 200 - text/javascript 1.6586ms
+2021-03-22 13:36:57.157 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44329/__livereload - -
+2021-03-22 13:36:57.975 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/ - -
+2021-03-22 13:36:57.976 +01:00 [INF] Executing endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:36:57.978 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ASPNETCoreMVC_Overview.Controllers.HomeController (ASPNETCoreMVC_Overview).
+2021-03-22 13:36:57.979 +01:00 [INF] Zeige HomeController->Index an
+2021-03-22 13:36:57.981 +01:00 [INF] Executing ViewResult, running view Index.
+2021-03-22 13:36:57.987 +01:00 [INF] Executed ViewResult - view Index executed in 6.8647ms.
+2021-03-22 13:36:57.987 +01:00 [INF] Executed action ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview) in 8.2694ms
+2021-03-22 13:36:57.988 +01:00 [INF] Executed endpoint 'ASPNETCoreMVC_Overview.Controllers.HomeController.Index (ASPNETCoreMVC_Overview)'
+2021-03-22 13:36:57.990 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/ - - - 200 - text/html;+charset=utf-8 14.3160ms
+2021-03-22 13:36:58.002 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44329/__livereload - - - 101 - - 844.4669ms
+2021-03-22 13:36:58.025 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44329/__livereloadscript - -
+2021-03-22 13:36:58.027 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44329/__livereloadscript - - - 200 - text/javascript 1.7456ms
+2021-03-22 13:36:58.546 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44329/__livereload - -
+2021-03-22 13:37:00.701 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44329/__livereload - - - 101 - - 2154.2587ms

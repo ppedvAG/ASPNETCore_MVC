@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "QTUItEh/B9S+M5an0UfnLJwm/brTpR4ugAKc01xl5YVZt19Z3vk2k6y1kYOfNhpwmk6N5F5hCIFGxixKPXEQMA==",
-  "success": true,
+  "dgSpecHash": "DNN8/jwGu3u6fmwMCxxG5xOOwaOmubgtl+VxE8F5SOcUEQFQuUWaCy9cYzgxq3rh55xbrs+w63aoEKr/4oX7Gw==",
+  "success": false,
   "projectFilePath": "C:\\Aktueller Kurs\\ASPNETCore_MVC\\ASPNETCoreMVC_Overview\\GameStore.UI\\GameStore.UI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
-  ],
-  "logs": []
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Das Projekt GameStore.Shared ist nicht mit netcoreapp3.1 (.NETCoreApp,Version=v3.1) kompatibel. Das Projekt GameStore.Shared unterstützt Folgendes: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "GameStore.Shared",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

@@ -116,9 +116,18 @@ namespace BookShop
             
             app.UseEndpoints(endpoints =>
             {
+                //endpoints.MapControllerRoute(
+                //    name: "default",
+                //    pattern: "{controller=Home}/{action=Index}/{Monat=1}/{Year=2020}/");
+
+
+
+                // Die Default Regel ist ganz unten
                 endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                   name: "default",
+                   pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
                 endpoints.MapRazorPages();
             });
         }

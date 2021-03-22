@@ -22,7 +22,25 @@ namespace BookShop.Controllers
             _bookService = bookService;
         }
 
-       
+
+
+
+        //Route("Kevin/Details/{id:int}")]
+        //public IActionResult Details(int id)
+        //{
+        //    return View();
+        //}
+
+
+        //[Route("Kevin/Details2/{id:int?}")]
+        //public IActionResult Details2(int id)
+        //{
+        //    return View();
+        //}
+
+
+        [Route("Kevin/Index2")]
+
         public IActionResult Index(string query, bool audioBook=false) // Get - Methode
         {
             BooksVM booksVM = new(); //C# 9.0 BooksVM booksVM = new BooksVM()
@@ -115,7 +133,7 @@ namespace BookShop.Controllers
         }
 
         #region Partial with jQuery
-        public IActionResult GetNewestBookPartial() =>
+        public IActionResult OnGetNewestBookPartial() =>
             new PartialViewResult
             {
                 ViewName = "_NewestBookPartial",
