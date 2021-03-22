@@ -1,0 +1,36 @@
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.deps.json
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csprojAssemblyReference.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.deps.json
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csprojAssemblyReference.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.AssemblyInfoInputs.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.AssemblyInfo.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csproj.CoreCompileInputs.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.deps.json
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.deps.json
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\bin\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.Shared\obj\Debug\netcoreapp3.1\GameStore.Shared.csprojAssemblyReference.cache

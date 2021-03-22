@@ -1,0 +1,180 @@
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.exe
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.deps.json
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.runtimeconfig.dev.json
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.dll
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.pdb
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.Views.dll
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.Views.pdb
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.UI.StaticWebAssets.Manifest.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.UI.StaticWebAssets.xml
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\GameStore.UI.styles.css
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.TagHelpers.input.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.TagHelpers.output.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorCoreGenerate.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorTargetAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorTargetAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.Views.pdb
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csproj.CopyComplete
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.dll
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.pdb
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Create.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Delete.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Details.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Edit.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Index.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.exe
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.deps.json
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.runtimeconfig.json
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.runtimeconfig.dev.json
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.dll
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.pdb
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.Views.dll
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.Views.pdb
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csprojAssemblyReference.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.AssemblyInfoInputs.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.AssemblyInfo.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csproj.CoreCompileInputs.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorAssemblyInfo.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorAssemblyInfo.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.UI.StaticWebAssets.Manifest.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.UI.StaticWebAssets.xml
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\GameStore.UI.styles.css
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.TagHelpers.input.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.TagHelpers.output.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorCoreGenerate.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Create.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Delete.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Details.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Edit.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Index.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorTargetAssemblyInfo.cache
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorTargetAssemblyInfo.cs
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.Views.pdb
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csproj.CopyComplete
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.dll
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.pdb
+C:\Git Repositories\ASPNET Kurse\ASPNETCore_2020_11_16\AspNetCore_2020_11_16\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.exe
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.deps.json
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.runtimeconfig.dev.json
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.dll
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.Views.dll
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.Views.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.UI.StaticWebAssets.Manifest.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.UI.StaticWebAssets.xml
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\GameStore.UI.styles.css
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.TagHelpers.input.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.TagHelpers.output.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorCoreGenerate.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Create.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Delete.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Details.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Edit.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Index.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorTargetAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorTargetAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.Views.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csproj.CopyComplete
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.dll
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_02_22\ASPNETCORE_2021_02\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.exe
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.deps.json
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.runtimeconfig.dev.json
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.Views.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.UI.Views.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.Shared.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\bin\Debug\netcoreapp3.1\GameStore.Shared.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.UI.StaticWebAssets.Manifest.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.UI.StaticWebAssets.xml
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\GameStore.UI.styles.css
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.TagHelpers.input.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.TagHelpers.output.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorCoreGenerate.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Create.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Delete.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Details.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Edit.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Games\Index.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorTargetAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.RazorTargetAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.Views.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.csproj.CopyComplete
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.dll
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.pdb
+C:\Aktueller Kurs\ASPNETCore_MVC\ASPNETCoreMVC_Overview\GameStore.UI\obj\Debug\netcoreapp3.1\GameStore.UI.genruntimeconfig.cache

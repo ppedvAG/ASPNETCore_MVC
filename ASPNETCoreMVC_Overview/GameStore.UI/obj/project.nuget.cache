@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QTUItEh/B9S+M5an0UfnLJwm/brTpR4ugAKc01xl5YVZt19Z3vk2k6y1kYOfNhpwmk6N5F5hCIFGxixKPXEQMA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\ASPNETCore_MVC\\ASPNETCoreMVC_Overview\\GameStore.UI\\GameStore.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
